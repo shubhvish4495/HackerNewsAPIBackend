@@ -25,8 +25,6 @@ import java.util.Map;
  *
  */
 @RestController
-@EnableCaching
-@ComponentScan(basePackages= {"com.insider.fetchNews.*"})
 public class FetchNewsRestController {
 
     private static final String INTERNAL_ERROR = "Internal Error";

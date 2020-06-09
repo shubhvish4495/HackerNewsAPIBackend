@@ -15,7 +15,6 @@ import static com.insider.fetchNews.controller.FetchNewsRestController.evictAllC
  *
  */
 @SpringBootApplication
-@RestController
 @EnableCaching
 @ComponentScan(basePackages= {"com.insider.fetchNews.*"})
 public class Application {

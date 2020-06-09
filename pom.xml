@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>com.insider</groupId>
 	<artifactId>fetchNews</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0-SNAPSHOT</version>
 	<name>fetchNews</name>
 	<description>News Fetching rest API</description>
 
